@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://determined-williams-b7fa77.netlify.app/"
 languageCode = "en-us"
 title = "Sooper Doc"
 theme = "book"
